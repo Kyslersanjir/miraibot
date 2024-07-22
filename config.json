@@ -1,5 +1,5 @@
 {
-    "language": "vi",
+    "language": "en",
     "keyActive": "",
     "DeveloperMode": false,
     "autoCreateDB": true,
@@ -13,9 +13,9 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "Mirai-Project",
-    "PREFIX": "'",
+    "PREFIX": "*",
     "ADMINBOT": [
-        "100040984926932"
+        "61554265433272"
     ],
     "DATABASE": {
         "sqlite": {
